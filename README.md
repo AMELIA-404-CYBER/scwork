@@ -2,7 +2,7 @@
 
 🔰 _PUBLIC FULL OK IDZ_
 
-🔰 _GK ADA HASIL LAPOR YA
+🔰 _GK ADA HASIL LAPOR YA_
 
 - `pkg update`
 - `pkg upgrade`
